@@ -23,6 +23,6 @@ div {
     padding-bottom: 10px;
 }
 
-div.aboutMe {
-
+button {
+    float: right;
 }
