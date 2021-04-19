@@ -1,3 +1,8 @@
+body {
+    font-family: courier new;
+    background-color:  #ffd9cc;
+}
+
 img {
     max-height: 200px;
     max-width: 200px;
