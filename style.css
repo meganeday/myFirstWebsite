@@ -1,6 +1,7 @@
 body {
     font-family: courier new;
     background-color:  #ffd9cc;
+    margin: 100px;
 }
 
 img {
@@ -10,4 +11,18 @@ img {
 
 #yellow {
     background-color:  #ffff80;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div {
+    padding-bottom: 10px;
+}
+
+div.aboutMe {
+
 }
